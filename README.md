@@ -64,5 +64,5 @@ VITE_APP_EMAILJS_PUBLIC_KEY=your_public_key
 
 **Wassil EL Baghdadi**
 - Email: [wassil.elbaghdadi@gmail.com](mailto:wassil.elbaghdadi@gmail.com)
-- LinkedIn: [Wassil EL Baghdadi](https://www.linkedin.com/in/wassil-el-baghdadi-483999225/)
+- LinkedIn: [Wassil EL Baghdadi](https://www.linkedin.com/in/wassil-el-baghdadi)
 - GitHub: [ElbWass](https://github.com/ElbWass)
