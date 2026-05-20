@@ -1,0 +1,63 @@
+{
+  "nav": {
+    "about": "À propos",
+    "work": "Expérience",
+    "work-section": "Projets",
+    "resume": "CV",
+    "contact": "Contact"
+  },
+ "hero": {
+  "greeting": "",
+  "name": "WASSIL EL BAGHDADI",
+  "subtitle": "Développeur Full Stack\n React / Next.js · Node.js\n Je construis des applications web scalables et performantes.",
+  "scrollDown": "Défiler vers le bas"
+},
+  "about": {
+  "subText": "Introduction",
+  "title": "À propos",
+  "description": "Développeur Full Stack spécialisé en React, Next.js et Node.js, je conçois et développe des applications web modernes, performantes et orientées produit, avec une attention particulière portée à la qualité du code et à l'expérience utilisateur.",
+
+  "interest1": "React, Next.js & Node.js 🚀",
+  "interest2": "Architecture propre & bonnes pratiques 🔧",
+  "interest3": "Orienté produit & expérience utilisateur 💡",
+
+  "quote": "Je ne fais pas que coder — je construis des produits.",
+  "screenHint": "Clique sur l'écran pour changer"
+},
+  "experience": {
+    "subText": "Ce que j'ai accompli jusqu'ici",
+    "title": "Expérience professionnelle"
+  },
+  "tech": {
+    "subText": "Technologies",
+    "title": "Compétences techniques"
+  },
+  "works": {
+    "subText": "Mes travaux récents",
+    "title": "Projets",
+    "description": "Ces projets illustrent mes compétences et mon expérience à travers des réalisations concrètes. Chacun est brièvement décrit avec des liens vers les dépôts et les démos. Ils reflètent ma capacité à résoudre des problèmes complexes, à travailler avec différentes technologies et à mener des projets de bout en bout.",
+    "liveDemo": "Démo en direct"
+  },
+  "resume": {
+    "title": "Mon CV",
+    "subText": "Télécharger ou prévisualiser",
+    "download": "Télécharger le PDF",
+    "preview": "Aperçu du CV",
+    "noPreview": "L'aperçu PDF n'est pas disponible. Veuillez télécharger le fichier.",
+    "langNote": ""
+  },
+  "contact": {
+  "subText": "Contactez-moi",
+  "title": "Contact",
+  "name": "Votre nom",
+  "namePlaceholder": "Comment vous appelez-vous ?",
+  "email": "Votre e-mail",
+  "emailPlaceholder": "Quelle est votre adresse e-mail ?",
+  "message": "Votre message",
+  "messagePlaceholder": "Que souhaitez-vous me dire ?",
+  "send": "Envoyer",
+  "sending": "Envoi en cours...",
+  "successMsg": "Merci. Je vous répondrai dès que possible.",
+  "errorMsg": "Une erreur s'est produite. Veuillez réessayer."
+}
+}
