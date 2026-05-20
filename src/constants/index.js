@@ -245,7 +245,7 @@ const projects = [
       { name: "TailwindCSS",  color: "orange-text-gradient" },
     ],
     image: portfolio,
-    source_code_link: "https://github.com/ElbWass/Pileface",
+    source_code_link: "https://github.com/ElbWass/portfolio",
   },
 ];
 
