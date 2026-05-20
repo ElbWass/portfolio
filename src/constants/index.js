@@ -22,7 +22,7 @@ import devpedia from "../assets/Devpedia.png";
 import sitevacances from "../assets/sitevacances.png";
 import staffflow from "../assets/staffflow.png";
 import nexaAI from "../assets/nexaAI.png";
-import pileface from "../assets/pileface.png";
+import pileface from "../assets/Pileface.png";
 import portfolio from "../assets/portfolio.png";
 
 export const navLinks = [
